@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "path": "test.json",
+        "name": "Debug quiz"
+    },
+    {
+        "id": 2,
+        "path": "russian.json",
+        "name": "Russian"
+    }
+]
